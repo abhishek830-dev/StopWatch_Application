@@ -1,17 +1,11 @@
 # ⏱️ Stopwatch Application
 
 A simple and responsive **Stopwatch Web Application** built using **HTML, CSS, and JavaScript**.
-This project demonstrates core front-end development skills such as DOM manipulation, event handling, and time-based functions in JavaScript.
-
----
+This project demonstrates core front-end development skills such as DOM manipulation, event handling, and time-based functions in JavaScript
 
 ## 🚀 Live Demo
 
-```
 https://abhishek830-dev.github.io/StopWatch_Application/
-```
-
----
 
 ## 📌 Features
 
@@ -22,15 +16,11 @@ https://abhishek830-dev.github.io/StopWatch_Application/
 ✅ Beginner-friendly project structure
 ✅ Uses pure JavaScript (No external libraries)
 
----
-
 ## 🛠️ Tech Stack
 
 * **HTML5** → Structure of the application
 * **CSS3** → Styling and layout
 * **JavaScript (Vanilla JS)** → Timer logic and interactivity
-
----
 
 ## 📂 Project Structure
 
@@ -76,8 +66,6 @@ cd stopwatch
 
 Done 🎉
 
----
-
 ## 🎯 Learning Objectives
 
 This project helped me strengthen my understanding of:
@@ -88,8 +76,6 @@ This project helped me strengthen my understanding of:
 * Responsive Layout
 * Clean UI Design
 
----
-
 ## 🔥 Future Improvements
 
 * Add Lap functionality
@@ -98,15 +84,11 @@ This project helped me strengthen my understanding of:
 * Dark / Light mode toggle
 * Convert into a React component
 
----
-
 ## 🙋‍♂️ Author
 
 **Abhishek Garg**
 
 If you like this project, consider giving it a ⭐ on GitHub!
-
----
 
 ## 📜 License
 
