@@ -1,4 +1,4 @@
-*{
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,19 +6,25 @@
 }
 
 body{
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #ffffff;
+    background-color: #e7f7d1;
+    color: cyan;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
+    padding: 70px;
+    margin: 30px 60px;
+    border: 5px solid black;
+    border-radius: 20px;
 }
 
 .stopwatch{
     background-color: rgba(0, 0, 0, 0.9);
-    padding: 20px 24px;
-    border-radius: 10px;
+    padding: 11px 58px;
+    border-radius: 30px;
+    border: 3px solid lime;
+    cursor: pointer;
 }
 
 .timerDisplay{
@@ -38,6 +44,6 @@ body{
     background-color: var(--clr);
     padding: 12px 24px;
     margin-inline: 12px;
-    border-radius: 8px;
+    border-radius: 30px;
     cursor: pointer;
 }
